@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi there, I'm Dolitha Dasari!
 
-<!--
-**dolithachowdary/dolithachowdary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a final-year **Computer Science** student at **Sridevi Women's Engineering College**, Hyderabad.  
+🔬 Currently interning at **Defence Research and Development Organisation (DRDO)**, Hyderabad.  
+💻 Passionate about building intelligent systems, problem-solving, and exploring the intersection of AI and software development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+
+- 👨‍💻 Write code that solves real-world problems
+- 🧠 Explore Artificial Intelligence, Machine Learning, and Deep Learning
+- 🛠️ Build full-stack web applications
+- 🔐 Interested in cybersecurity and ethical hacking
+  
+---
+
+> _“Stay hungry, stay foolish.” – Steve Jobs_
+
+Thanks for stopping by! ⭐
