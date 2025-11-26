@@ -11,7 +11,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=dolithachowdary&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dolithachowdary&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![snake gif](https://github.com/dolithachowdary/dolithachowdary/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/dolithachowdary/dolithachowdary/blob/output/github-snake-dark.svg)
 <!--
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
